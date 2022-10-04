@@ -1,7 +1,5 @@
 let geometrylogic = require('mathclass')
 let SaulGoodman = require('./BravoVince/BetterCallSaul/KidNamedFinger/SaulGoodman.jpg')
-let os = require('os')
-let osutils = require('os-utils')
 
 const problem = "https://www.deltamath.com/"
 const Proofs = require('./WalterWhite/Heisenberg.jpg')
